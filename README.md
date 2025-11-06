@@ -1,8 +1,6 @@
 # openpilot 완벽 가이드
 
-<div align="center">
-
-## 오픈소스 자율주행 시스템을 배우는 가장 쉬운 방법
+> **오픈소스 자율주행 시스템을 배우는 가장 쉬운 방법**
 
 **openpilot**은 comma.ai에서 개발한 오픈소스 운전자 보조 시스템입니다.  
 이 책은 openpilot을 처음 접하는 한국 개발자들을 위한 완벽한 가이드입니다.
@@ -11,8 +9,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/dinnerandcoffee/openpilot-learning-guide?style=social)](https://github.com/dinnerandcoffee/openpilot-learning-guide)
 
 [📖 온라인에서 읽기](https://wikidocs.net/book/openpilot) | [GitHub](https://github.com/dinnerandcoffee/openpilot-learning-guide) | [원본 저장소](https://github.com/commaai/openpilot)
-
-</div>
 
 ---
 
@@ -156,12 +152,8 @@ git clone https://github.com/commaai/openpilot.git
 
 ---
 
-<div align="center">
-
 **openpilot과 함께 자율주행의 세계로! 🚗💨**
 
 Made with ❤️ for Korean developers
 
-[시작하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md) →
-
-</div>
+**[👉 시작하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md)**
