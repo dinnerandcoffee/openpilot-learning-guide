@@ -37,46 +37,46 @@ openpilot은 300개 이상의 차량에서 작동하는 오픈소스 레벨2 자
 
 ## 📖 목차
 
-### Part 1: 시작하기
+### Part 1: 시작하기 (완료 ✅)
 1. [openpilot 소개](./docs/01-intro.md)
 2. [openpilot이란 무엇인가](./docs/02-what-is-openpilot.md)
-3. [준비하기](./docs/03-prerequisites.md)
 
-### Part 2: 개발 환경 구축
+### Part 2: 개발 환경 구축 (완료 ✅)
+3. [준비하기](./docs/03-prerequisites.md)
 4. [개발 환경 설정](./docs/04-setup-environment.md)
 5. [저장소 클론 및 빌드](./docs/05-clone-and-build.md)
 6. [첫 실행과 테스트](./docs/06-first-run.md)
 
-### Part 3: 핵심 개념
+### Part 3: 핵심 개념 (완료 ✅)
 7. [시스템 아키텍처](./docs/07-architecture.md)
 8. [메시지 시스템 (cereal)](./docs/08-cereal.md)
-9. [주요 프로세스 이해](./docs/09-main-processes.md)
+9. [주요 프로세스 상세 분석](./docs/09-processes.md)
 
-### Part 4: 비전 시스템
-10. [카메라와 이미지 처리](./docs/10-camera.md)
-11. [딥러닝 모델 (supercombo)](./docs/11-model.md)
-12. [차선과 경로 인식](./docs/12-perception.md)
+### Part 4: 비전 시스템 (완료 ✅)
+10. [비전 시스템 개요](./docs/10-vision-overview.md)
+11. [모델 학습 절차](./docs/11-model-training.md)
+12. [모델 최적화](./docs/12-model-optimization.md)
 
-### Part 5: 제어 시스템
-13. [경로 계획 (plannerd)](./docs/13-planning.md)
-14. [차량 제어 (controlsd)](./docs/14-control.md)
-15. [PID와 MPC 컨트롤러](./docs/15-controllers.md)
+### Part 5: 제어 시스템 (완료 ✅)
+13. [횡방향 제어 (조향)](./docs/13-lateral-control.md)
+14. [종방향 제어 (속도)](./docs/14-longitudinal-control.md)
 
-### Part 6: 차량 인터페이스
-16. [CAN 버스 이해하기](./docs/16-can-bus.md)
-17. [panda와 안전 모델](./docs/17-panda.md)
-18. [차량별 인터페이스 (opendbc)](./docs/18-opendbc.md)
+### Part 6: 차량 인터페이스 (완료 ✅)
+15. [CAN 버스 이해하기](./docs/15-can-bus.md)
+16. [차량 포팅 가이드](./docs/16-car-porting.md)
+17. [안전 모델과 모니터링](./docs/17-safety-monitoring.md)
+18. [컨트리뷰션 가이드](./docs/18-contributing.md)
 
-### Part 7: 실전 프로젝트
-19. [파라미터 튜닝하기](./docs/19-tuning.md)
-20. [새 차량 포팅하기](./docs/20-car-porting.md)
-21. [기능 개선과 기여](./docs/21-contributing.md)
+### Part 7: 실전 프로젝트 (완료 ✅)
+19. [커스텀 모델 만들기](./docs/19-custom-model.md)
+20. [시뮬레이터 개발](./docs/20-simulator.md)
+21. [프로덕션 배포](./docs/21-deployment.md)
 
-### 부록
-- [A. 용어 사전](./docs/appendix-a-glossary.md)
-- [B. 자주 묻는 질문](./docs/appendix-b-faq.md)
-- [C. 유용한 리소스](./docs/appendix-c-resources.md)
-- [D. 트러블슈팅](./docs/appendix-d-troubleshooting.md)
+### 부록 (완료 ✅)
+- [A. 용어집](./docs/appendix-a-glossary.md)
+- [B. FAQ](./docs/appendix-b-faq.md)
+- [C. 참고 자료](./docs/appendix-c-resources.md)
+- [D. 문제 해결](./docs/appendix-d-troubleshooting.md)
 
 ---
 
