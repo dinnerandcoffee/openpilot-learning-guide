@@ -129,9 +129,11 @@ openpilot/
 - [comma.ai 블로그](https://blog.comma.ai)
 
 ### 한글 가이드 (이 저장소)
+- **[📍 학습 로드맵](./docs/ko/ROADMAP.md)** ⭐ 여기서 시작하세요!
 - [openpilot 시작하기](./docs/ko/getting-started/README.md)
 - [핵심 개념 이해하기](./docs/ko/concepts/README.md)
 - [개발 가이드](./docs/ko/how-to/README.md)
+- [용어 사전](./docs/ko/GLOSSARY.md)
 
 ---
 
