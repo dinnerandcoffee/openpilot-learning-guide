@@ -450,4 +450,4 @@ def apply_steer_limits(steer_angle, v_ego, CP):
 
 ---
 
-[다음: 14. 종방향 제어 →](./14-longitudinal-control.md)
+[다음: 14. 종방향 제어 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/14-longitudinal-control.md)

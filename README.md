@@ -38,45 +38,45 @@ openpilot은 300개 이상의 차량에서 작동하는 오픈소스 레벨2 자
 ## 📖 목차
 
 ### Part 1: 시작하기 (완료 ✅)
-1. [openpilot 소개](./docs/01-intro.md)
-2. [openpilot이란 무엇인가](./docs/02-what-is-openpilot.md)
+1. [openpilot 소개](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md)
+2. [openpilot이란 무엇인가](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/02-what-is-openpilot.md)
 
 ### Part 2: 개발 환경 구축 (완료 ✅)
-3. [준비하기](./docs/03-prerequisites.md)
-4. [개발 환경 설정](./docs/04-setup-environment.md)
-5. [저장소 클론 및 빌드](./docs/05-clone-and-build.md)
-6. [첫 실행과 테스트](./docs/06-first-run.md)
+3. [준비하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/03-prerequisites.md)
+4. [개발 환경 설정](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/04-setup-environment.md)
+5. [저장소 클론 및 빌드](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/05-clone-and-build.md)
+6. [첫 실행과 테스트](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/06-first-run.md)
 
 ### Part 3: 핵심 개념 (완료 ✅)
-7. [시스템 아키텍처](./docs/07-architecture.md)
-8. [메시지 시스템 (cereal)](./docs/08-cereal.md)
-9. [주요 프로세스 상세 분석](./docs/09-processes.md)
+7. [시스템 아키텍처](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/07-architecture.md)
+8. [메시지 시스템 (cereal)](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/08-cereal.md)
+9. [주요 프로세스 상세 분석](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/09-processes.md)
 
 ### Part 4: 비전 시스템 (완료 ✅)
-10. [비전 시스템 개요](./docs/10-vision-overview.md)
-11. [모델 학습 절차](./docs/11-model-training.md)
-12. [모델 최적화](./docs/12-model-optimization.md)
+10. [비전 시스템 개요](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/10-vision-overview.md)
+11. [모델 학습 절차](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/11-model-training.md)
+12. [모델 최적화](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/12-model-optimization.md)
 
 ### Part 5: 제어 시스템 (완료 ✅)
-13. [횡방향 제어 (조향)](./docs/13-lateral-control.md)
-14. [종방향 제어 (속도)](./docs/14-longitudinal-control.md)
+13. [횡방향 제어 (조향)](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/13-lateral-control.md)
+14. [종방향 제어 (속도)](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/14-longitudinal-control.md)
 
 ### Part 6: 차량 인터페이스 (완료 ✅)
-15. [CAN 버스 이해하기](./docs/15-can-bus.md)
-16. [차량 포팅 가이드](./docs/16-car-porting.md)
-17. [안전 모델과 모니터링](./docs/17-safety-monitoring.md)
-18. [컨트리뷰션 가이드](./docs/18-contributing.md)
+15. [CAN 버스 이해하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/15-can-bus.md)
+16. [차량 포팅 가이드](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/16-car-porting.md)
+17. [안전 모델과 모니터링](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/17-safety-monitoring.md)
+18. [컨트리뷰션 가이드](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/18-contributing.md)
 
 ### Part 7: 실전 프로젝트 (완료 ✅)
-19. [커스텀 모델 만들기](./docs/19-custom-model.md)
-20. [시뮬레이터 개발](./docs/20-simulator.md)
-21. [프로덕션 배포](./docs/21-deployment.md)
+19. [커스텀 모델 만들기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/19-custom-model.md)
+20. [시뮬레이터 개발](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/20-simulator.md)
+21. [프로덕션 배포](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/21-deployment.md)
 
 ### 부록 (완료 ✅)
-- [A. 용어집](./docs/appendix-a-glossary.md)
-- [B. FAQ](./docs/appendix-b-faq.md)
-- [C. 참고 자료](./docs/appendix-c-resources.md)
-- [D. 문제 해결](./docs/appendix-d-troubleshooting.md)
+- [A. 용어집](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-a-glossary.md)
+- [B. FAQ](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-b-faq.md)
+- [C. 참고 자료](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-c-resources.md)
+- [D. 문제 해결](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-d-troubleshooting.md)
 
 ---
 
@@ -119,6 +119,8 @@ cat docs/01-intro.md
 git clone https://github.com/commaai/openpilot.git
 ```
 
+**온라인으로 읽기**: [1장 시작하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md)
+
 ---
 
 ## 💬 커뮤니티
@@ -160,6 +162,6 @@ git clone https://github.com/commaai/openpilot.git
 
 Made with ❤️ for Korean developers
 
-[시작하기](./docs/01-intro.md) →
+[시작하기](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md) →
 
 </div>

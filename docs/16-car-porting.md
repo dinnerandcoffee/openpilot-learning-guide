@@ -148,4 +148,4 @@ Part 6 완료! 마지막 Part 7 (실전 프로젝트)입니다.
 
 ---
 
-[다음: Part 7 - 실전 프로젝트 →](./19-custom-model.md)
+[다음: Part 7 - 실전 프로젝트 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/19-custom-model.md)

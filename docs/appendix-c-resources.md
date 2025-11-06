@@ -79,4 +79,4 @@
 
 ---
 
-[다음: 부록 D - 문제 해결 →](./appendix-d-troubleshooting.md)
+[다음: 부록 D - 문제 해결 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-d-troubleshooting.md)

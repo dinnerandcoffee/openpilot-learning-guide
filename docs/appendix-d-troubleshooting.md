@@ -234,4 +234,4 @@ valgrind --leak-check=full ./modeld
 
 **학습 가이드 완료를 축하합니다! 🎉**
 
-[처음으로 돌아가기 →](./01-intro.md)
+[처음으로 돌아가기 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/01-intro.md)

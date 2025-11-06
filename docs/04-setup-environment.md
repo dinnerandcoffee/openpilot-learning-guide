@@ -488,4 +488,4 @@ sudo chattr +i /etc/resolv.conf
 
 ---
 
-[다음: 5. 저장소 클론 및 빌드 →](./05-clone-and-build.md)
+[다음: 5. 저장소 클론 및 빌드 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/05-clone-and-build.md)

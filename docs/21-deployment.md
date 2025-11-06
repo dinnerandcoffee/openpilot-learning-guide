@@ -106,9 +106,9 @@ def send_telemetry():
 - 오픈소스 기여
 
 **부록**:
-- [부록 A: 용어집](./appendix-a-glossary.md)
-- [부록 B: FAQ](./appendix-b-faq.md)
-- [부록 C: 참고 자료](./appendix-c-resources.md)
-- [부록 D: 문제 해결](./appendix-d-troubleshooting.md)
+- [부록 A: 용어집](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-a-glossary.md)
+- [부록 B: FAQ](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-b-faq.md)
+- [부록 C: 참고 자료](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-c-resources.md)
+- [부록 D: 문제 해결](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-d-troubleshooting.md)
 
 Happy driving! 🚗

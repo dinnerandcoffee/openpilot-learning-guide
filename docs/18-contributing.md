@@ -71,4 +71,4 @@ def get_car_params(candidate: str) -> CarParams:
 
 ---
 
-[다음: 19. 커스텀 모델 만들기 →](./19-custom-model.md)
+[다음: 19. 커스텀 모델 만들기 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/19-custom-model.md)

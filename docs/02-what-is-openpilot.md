@@ -380,4 +380,4 @@ def compute_path_pinv(l_prob, r_prob, ...):
 
 openpilot을 사용하거나 개발하기 위해 준비해야 할 것들을 알아보겠습니다.
 
-[다음: 3. 준비하기 →](./03-prerequisites.md)
+[다음: 3. 준비하기 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/03-prerequisites.md)

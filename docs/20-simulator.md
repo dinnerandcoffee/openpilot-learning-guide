@@ -57,4 +57,4 @@ while True:
 
 ---
 
-[다음: 21. 프로덕션 배포 →](./21-deployment.md)
+[다음: 21. 프로덕션 배포 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/21-deployment.md)

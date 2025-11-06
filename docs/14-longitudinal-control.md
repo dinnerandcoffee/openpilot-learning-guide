@@ -122,4 +122,4 @@ Part 5 완료! 다음은 Part 6 (차량 인터페이스)입니다.
 
 ---
 
-[다음: 15. CAN 버스 이해 →](./15-can-bus.md)
+[다음: 15. CAN 버스 이해 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/15-can-bus.md)

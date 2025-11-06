@@ -422,4 +422,4 @@ comma 3X 설정: 30분
 
 ---
 
-[다음: 4. 개발 환경 설정 →](./04-setup-environment.md)
+[다음: 4. 개발 환경 설정 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/04-setup-environment.md)

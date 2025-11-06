@@ -491,4 +491,4 @@ git lfs pull
 
 ---
 
-[다음: 6. 첫 실행 및 테스트 →](./06-first-run.md)
+[다음: 6. 첫 실행 및 테스트 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/06-first-run.md)

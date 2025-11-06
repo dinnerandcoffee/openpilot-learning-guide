@@ -169,4 +169,4 @@ openpilot은 **운전자 보조 시스템**입니다. **완전 자율주행이 �
 
 다음 장에서는 openpilot이 정확히 무엇인지, 어떻게 작동하는지 알아보겠습니다.
 
-[다음: 2. openpilot이란 무엇인가 →](./02-what-is-openpilot.md)
+[다음: 2. openpilot이란 무엇인가 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/02-what-is-openpilot.md)

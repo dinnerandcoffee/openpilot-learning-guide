@@ -118,4 +118,4 @@ CAN 버스를 이해했습니다! 다음은 차량별 인터페이스입니다.
 
 ---
 
-[다음: 16. 차량 포팅 →](./16-car-porting.md)
+[다음: 16. 차량 포팅 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/16-car-porting.md)

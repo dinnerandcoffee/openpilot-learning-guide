@@ -103,4 +103,4 @@ if sm['trafficLight'].color == 'red':
 
 ---
 
-[다음: 20. 시뮬레이터 개발 →](./20-simulator.md)
+[다음: 20. 시뮬레이터 개발 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/20-simulator.md)

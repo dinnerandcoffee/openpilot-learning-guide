@@ -97,4 +97,4 @@ logger.write({
 
 ---
 
-[다음: 18. 컨트리뷰션 가이드 →](./18-contributing.md)
+[다음: 18. 컨트리뷰션 가이드 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/18-contributing.md)

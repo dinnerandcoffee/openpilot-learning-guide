@@ -406,4 +406,4 @@ Part 5에서는 제어 시스템을 다룹니다:
 
 ---
 
-[다음: Part 5 - 제어 시스템 →](./13-lateral-control.md)
+[다음: Part 5 - 제어 시스템 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/13-lateral-control.md)

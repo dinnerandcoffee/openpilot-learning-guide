@@ -553,4 +553,4 @@ sudo apt install nvidia-driver-535
 
 ---
 
-[다음: Part 3 - 핵심 개념 →](./07-architecture.md)
+[다음: Part 3 - 핵심 개념 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/07-architecture.md)

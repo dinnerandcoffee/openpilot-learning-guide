@@ -743,4 +743,4 @@ Part 4에서는 AI 비전 시스템을 더 깊이 다룹니다:
 
 ---
 
-[다음: Part 4 - 비전 시스템 →](./10-vision-overview.md)
+[다음: Part 4 - 비전 시스템 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/10-vision-overview.md)

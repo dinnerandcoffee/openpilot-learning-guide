@@ -635,4 +635,4 @@ alerts = {
 
 ---
 
-[다음: 8. cereal 메시징 시스템 →](./08-cereal.md)
+[다음: 8. cereal 메시징 시스템 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/08-cereal.md)

@@ -622,4 +622,4 @@ cereal 메시징을 이해했으니, 다음 장에서는 주요 프로세스들�
 
 ---
 
-[다음: 9. 주요 프로세스 깊이 알기 →](./09-processes.md)
+[다음: 9. 주요 프로세스 깊이 알기 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/09-processes.md)

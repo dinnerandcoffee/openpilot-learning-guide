@@ -666,4 +666,4 @@ python selfdrive/modeld/test/benchmark.py
 
 ---
 
-[다음: 12. 모델 최적화 →](./12-model-optimization.md)
+[다음: 12. 모델 최적화 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/12-model-optimization.md)

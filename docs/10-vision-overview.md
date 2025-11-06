@@ -457,4 +457,4 @@ python tools/lib/test_model.py \
 
 ---
 
-[다음: 11. 모델 학습 →](./11-model-training.md)
+[다음: 11. 모델 학습 →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/11-model-training.md)

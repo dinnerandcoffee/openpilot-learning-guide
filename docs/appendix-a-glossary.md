@@ -90,4 +90,4 @@ openpilot 관련 주요 용어 정리
 
 ---
 
-[다음: 부록 B - FAQ →](./appendix-b-faq.md)
+[다음: 부록 B - FAQ →](https://github.com/dinnerandcoffee/openpilot-learning-guide/blob/main/docs/appendix-b-faq.md)
